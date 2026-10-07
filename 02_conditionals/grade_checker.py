@@ -18,6 +18,7 @@ def get_grade(score):
         return "F"
 
 
-# Try it with a few different scores
-for test_score in [85, 65, 52, 41, 20, 150]:
-    print(f"Score {test_score} -> Grade: {get_grade(test_score)}")
+if __name__ == "__main__":
+    # Try it with a few different scores
+    for test_score in [85, 65, 52, 41, 20, 150]:
+        print(f"Score {test_score} -> Grade: {get_grade(test_score)}")
