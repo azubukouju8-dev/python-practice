@@ -11,7 +11,7 @@ A collection of Python exercises covering the core foundations: variables, condi
 
 1. Clone the repository and open the folder:
 ```
-   git clone <your-repository-url>
+      git clone https://github.com/azubukouju8-dev/python-practice.git
    cd python-practice
 ```
 2. Create a virtual environment:
